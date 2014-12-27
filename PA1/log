@@ -1,0 +1,15 @@
+130>>sumList 1 [pass] (1)
+130>>sumList 2 [pass] (1)
+130>>sumList 3 [pass] (1)
+130>>digitsOfInt 1 [pass] (2)
+130>>digitsOfInt 2 [pass] (1)
+130>>digits 1 [pass] (1)
+130>>digits 2 [pass] (1)
+130>>additivePersistence [pass] (2)
+130>>digitalRoot [pass] (2)
+130>>reverse 1 [pass] (1)
+130>>rev 2 [pass] (1)
+130>>palindrome 1 [pass] (1)
+130>>palindrome 2 [pass] (1)
+130>>Results: Score/Max = 16 / 16 
+130>>Compiled

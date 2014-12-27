@@ -1,0 +1,28 @@
+130>> calling Vector(3)...  Good
+130>> calling Vector(3L)...  Good
+130>> calling Vector([4.5, 'foo', 0])...  Good
+130>> calling Vector(0)...  Good
+130>> calling test_1a_a()...  Good
+130>> calling <lambda>()...  Good
+130>> calling <lambda>()...  Good
+130>> calling <lambda>()...  Good
+130>> calling <lambda>()...  Good
+130>> calling <lambda>()...  Good
+130>> calling test_1c_a()...  Good
+130>> calling <lambda>()...  Good
+130>> calling <lambda>()...  Good
+130>> calling test_1e_a()...  Good
+130>> calling test_1e_b()...  Good
+130>> calling test_1e_c()...  Good
+130>> calling <lambda>()...  Good
+130>> calling <lambda>()...  Good
+130>> calling <lambda>()...  Good
+130>> calling <lambda>()...  Good
+130>> calling <lambda>()...  Good
+130>> calling <lambda>()...  Good
+130>> calling <lambda>()...  Good
+130>> calling <lambda>()...  Good
+130>> calling <lambda>()...  Good
+130>> calling <lambda>()...  Good
+130>> Results: (26/26)
+130>> Compiled
