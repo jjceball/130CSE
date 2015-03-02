@@ -1,3 +1,5 @@
 CSE130
 ======
-Code used in CSE130 consisting of programming assignments using OCaml, Python and Prolog
+Code used in CSE130, Programming Languages
+
+Core Languages used: OCaml, Python and Prolog
